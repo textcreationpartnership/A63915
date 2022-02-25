@@ -1,0 +1,252 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A resolution of three matrimonial cases by John Turner.</title>
+            <author>Turner, John, b. 1649 or 50.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63915</idno>
+            <idno type="STC">Wing T3315</idno>
+            <idno type="STC">ESTC R24646</idno>
+            <idno type="EEBO-CITATION">08259135</idno>
+            <idno type="OCLC">ocm 08259135</idno>
+            <idno type="VID">41256</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63915)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41256)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1242:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A resolution of three matrimonial cases by John Turner.</title>
+                  <author>Turner, John, b. 1649 or 50.</author>
+               </titleStmt>
+               <extent>[2], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by H. Hills jun., for Walter Kettilby,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Viz. I. Whether it be lawful for a man to marry his deceased wife's sister's daughter? II. Whether the half-blood make kindred? III. Whether such a marriage being made, it ought to be dissolv'd or no?"</note>
+                  <note>Errata: p. 23.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Consanguinity.</term>
+               <term>Impediments to marriage.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41256:1" rendition="simple:additions"/>
+            <p>A RESOLUTION OF THREE Matrimonial CASES; <hi>VIZ.</hi>
+            </p>
+            <p n="1">I. Whether it be Lawful for a Man to Marry his deceaſed Wife's Siſter's Daughter?</p>
+            <p n="2">II. Whether the half-blood make Kindred?</p>
+            <p n="3">III. Whether ſuch a Marriage being made, it ought to be diſſolv'd or no?</p>
+            <p>By <hi>John Turner,</hi> late Fellow of <hi>Chriſt's Colledge</hi> in <hi>Cambridge.</hi>
+            </p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </p>
+            <p>
+               <hi>Be ready always to give an anſwer to every Man that asketh you a reaſon.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>H. Hills</hi> Jun. for <hi>Walter Kettilby</hi> at the <hi>Biſhop's Head</hi> in St. <hi>Paul</hi>'s Church Yard. 1684.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:41256:2"/>
+            <pb facs="tcp:41256:2"/>
+            <head>THE Preface.</head>
+            <p>THE Three Que<g ref="char:EOLhyphen"/>ries here reſolved were ſent to me upon the Thirtieth of <hi>Jan.</hi> laſt, I know not well from whom they came, and it ſeems he that ſent them did not think it worth his while to call for an anſwer. How<g ref="char:EOLhyphen"/>ever becauſe the reſolu<g ref="char:EOLhyphen"/>tion proceeds upon ſuch
+<pb facs="tcp:41256:3"/> Principles, as may be ap<g ref="char:EOLhyphen"/>plyed to any other Caſe of this nature, ſo that e<g ref="char:EOLhyphen"/>very Man may eaſily diſ<g ref="char:EOLhyphen"/>cern hereafter for him<g ref="char:EOLhyphen"/>ſelf, what is lawful or un<g ref="char:EOLhyphen"/>lawful in theſe Caſes, therefore I thought it convenient to make it publick. Farewell.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:41256:3"/>
+            <head>A RESOLUTION OF THREE Matrimonial CASES.</head>
+            <argument>
+               <p>Queſt. I. <hi>Whether it be a lawful Marriage for a Man to Marry his deceaſed Wife's Siſter's Daughter, or no?</hi>
+               </p>
+               <p>Queſt. II. <hi>Whether being but of the half blood do not make Kindred?</hi>
+               </p>
+               <p>Queſt. III. <hi>If ſuch a Marriage be made al<g ref="char:EOLhyphen"/>ready, whether it be better that they part, or not?</hi>
+               </p>
+            </argument>
+            <p>
+               <seg rend="decorInit">F</seg>OR the Firſt of theſe Que<g ref="char:EOLhyphen"/>ries, it appears by the Third, which is concerning Divorce in Caſe of an unlawful Mar<g ref="char:EOLhyphen"/>riage, that it is to be under<g ref="char:EOLhyphen"/>ſtood of a Marriage, <hi>ex Antecedenti</hi> law<g ref="char:EOLhyphen"/>ful or unlawful, that is to ſay, whether it be lawful for a Man to endeavour a
+<pb n="2" facs="tcp:41256:4"/> Marriage, or to enter into a Matrimonial Contract in order to it, with one who ſtands related to him in the degree men<g ref="char:EOLhyphen"/>tioned in the ſaid Query. And to this I Anſwer, That it is not lawful, and I con<g ref="char:EOLhyphen"/>ceive its unlawfulneſs to be demonſtrable from that prohibition in the Eighteenth of <hi>Leviticus, v.</hi> 14. <hi>Thou ſhalt not uncover the nakedneſs of thy Father's Brother, thou ſhalt not approach to his Wife, ſhe is thine Aunt,</hi> which is again repeated, <hi>c.</hi> 20. v. 20. <hi>If a Man ſhall lye with his <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>cles Wife, he hath uncovered his <g ref="char:V">Ʋ</g>ncles nakedneſs: they ſhall bear their ſin, they ſhall die Childleſs.</hi>
+            </p>
+            <p>For if it be unlawful for a Man to Mar<g ref="char:EOLhyphen"/>ry his Aunt, the Wife of his Father's Bro<g ref="char:EOLhyphen"/>ther, then it is likewiſe unlawful for a Woman to Marry her Uncle, the Husband of her Mothers Siſter, becauſe theſe two Relations are, as to nearneſs of Kin, ex<g ref="char:EOLhyphen"/>actly the ſame, ſo that all the Queſtion is, whether in Matrimonial Caſes we are to ſtick to the letter of the <hi>Levitical</hi> Law, or whether parity of reaſon be of neceſ<g ref="char:EOLhyphen"/>ſity to be admitted? And I do humbly con<g ref="char:EOLhyphen"/>ceive the latter of theſe to be true, and I offer theſe following reaſons for my opinion.</p>
+            <pb n="3" facs="tcp:41256:4"/>
+            <p>Firſt, The fundamental reaſon of all theſe Prohibitory Laws is nearneſs of Kin. <hi>Levit.</hi> 18. 6. <hi>None of you ſhall approach to any that is near of Kin to him, to uncover their nakedneſs,</hi> from whence it follows, that if in two Caſes given, the nearneſs of Kin be in both exactly the ſame, the reaſon of the Law, and by conſequence its Obligation, is in both Caſes equally con<g ref="char:EOLhyphen"/>cerned.</p>
+            <p>Secondly, I appeal to the conſtant and univerſally received opinion of the Jewiſh Rabbins, and to the practice of that Na<g ref="char:EOLhyphen"/>tion which is founded upon it, for in the Matrimonial Tables of the Jews, which are much more particular then that of <hi>Moſes,</hi> the additional Prohibitions that are to be met with in them, are altoge<g ref="char:EOLhyphen"/>ther grounded upon parity of reaſon, as may be ſeen in Mr. <hi>Selden</hi> in his <hi>
+                  <g ref="char:V">Ʋ</g>xor Hebraica,</hi> and in his <hi>De jure naturali &amp; gentium juxta diſciplinam Hebraeorum,</hi> where he hath given an account of all thoſe Prohibitions out of <hi>Maimonides,</hi> and the <hi>Jewiſh Talmud.</hi>
+            </p>
+            <p>Thirdly, It is to be conſidered, that theſe Prohibitions, were not of a purely <hi>Moſaick,</hi> that is, a Typical, Umbra<g ref="char:EOLhyphen"/>tick and alterable Nature, but that they were built upon the reaſon of things, and
+<pb n="4" facs="tcp:41256:5"/> the unchangeable Intereſt of Mankind, for the propagation of Intereſts and Depen<g ref="char:EOLhyphen"/>dencies, and for the ſpreading and con<g ref="char:EOLhyphen"/>tinuance of Friendſhip among Men, which reaſon being altogether equal and the ſame, equally violated on the one hand, or gratified on the other, in the Marriage of an Aunt to the Nephew, or of an Un<g ref="char:EOLhyphen"/>cle to the Niece, it is manifeſt, that the Law-giver proceeding upon this reaſon, (and there can be no other tolerable reaſon of theſe Prohibitions aſſigned) did intend equally to prohibit both, if he have pro<g ref="char:EOLhyphen"/>hibited either of them; otherwiſe we muſt ſuppoſe one of theſe two things: Either that <hi>Moſes,</hi> that is, in effect, God himſelf did not ſufficiently underſtand and compre<g ref="char:EOLhyphen"/>hend the full Extent and Latitude of that reaſon upon which the Prohibitions were founded, or elſe that the reaſon of thoſe laws may be violated from time to time, and from age to age, in a thouſand myriads of inſtances, with the conſent of the Law<g ref="char:EOLhyphen"/>giver himſelf, by which means it would come to paſs, if it were lawful for an Un<g ref="char:EOLhyphen"/>cle to marry the Niece, though the Mar<g ref="char:EOLhyphen"/>riage of an Aunt with her Nephew were forbidden, that whatever the advantage was, which was intended by the prohi<g ref="char:EOLhyphen"/>bition of the latter to be procured to the
+<pb n="5" facs="tcp:41256:5"/> World, that advantage by the licence of the former would be but half obtained; and on the other ſide, whatever the diſ<g ref="char:EOLhyphen"/>advantage or detriment was, which was deſigned to be avoided or prevented, that diſadvantage would be but half redreſſed; now both of theſe things being equally abſurd and impious to ſuppoſe, it follows likewiſe upon this Third conſideration, as well as the two former, that in the <hi>Moſaick</hi> Prohibitions a parity of reaſon, and a Paralleliſm or Sympathy of Caſes is of neceſſity to be admitted.</p>
+            <p>Fourthly, If there had been liberty ſtill allowed, after it was prohibited for an Aunt and her Nephew to intermarry together, yet notwithſtanding for an Uncle and his Niece to do it, and ſo in other parallel inſtances that might be gi<g ref="char:EOLhyphen"/>ven, this would have been a very great and a very plauſible pretence for diſobe<g ref="char:EOLhyphen"/>dience, it would have been an occaſion of frequent murmuring, and repining in the Parties that were prohibited to Mar<g ref="char:EOLhyphen"/>ry, when others, as to nearneſs of blood, exactly in the ſame circumſtances with themſelves, were to the ſcandal of all Law and Juſtice, and without the leaſt color of Equity indulged; ſo that there being not only in both inſtances the very
+<pb n="6" facs="tcp:41256:6"/> ſelf ſame reaſon, but it being likewiſe neceſſary to the due effect of the Prohi<g ref="char:EOLhyphen"/>bition expreſt, that it ſhould be extended to the Prohibition imply'd by parity of reaſon, it follows that it was actually extended ſo far, and to ſay otherwiſe, is to accuſe the Divine Juſtice and Wiſdom together.</p>
+            <p>It would be to accuſe the Divine Wiſ<g ref="char:EOLhyphen"/>dom, as if God wanted foreſight, and did not pry ſufficiently into the natural iſſue and reſult of things, by making a Law to a ſtubborn and refractory people, which even the moſt obedient might very juſtly complain of, and by conſequence had a plauſible pretence to diſobey, and it would be at the ſame time to tax him with want of Juſtice, which is every whit as eſſenti<g ref="char:EOLhyphen"/>al and congenerous to his nature, for what can be more unjuſt, then to make it death for a Man to lie with the Mother of his Wife, and yet to leave it perfectly at li<g ref="char:EOLhyphen"/>berty, for a Man to lie with his own Daughter? And yet this is no where for<g ref="char:EOLhyphen"/>bidden, unleſs it be by parity of reaſon, except it be <hi>Levit. 18. 17. Thou ſhalt not uncover the nakedneſs of a Woman, and her Daughter,</hi> but that is manifeſtly to be underſtood of ſuch a Daughter, as was born to that Woman by another Husband,
+<pb n="7" facs="tcp:41256:6"/> and therefore ſhe is called <hi>her</hi> Daughter, by which it is implyed and ſuppoſed that ſhe was not <hi>his;</hi> and the ſame prohibition is expreſt in other words, <hi>Lev. 20. 12. If a Man lie with his Daughter in Law,</hi> (that is, his Wife's Daughter) <hi>both of them ſhall ſurely be put to death,</hi> or except it be pretended to be forbidden, <hi>Lev. 20. 14. If a Man take a Wife and her Mother, it is wickedneſs, they ſhall be burnt with fire, both he and they.</hi> For in this Caſe if a Man commit Inceſt with his own Daughter, or if he ſhould Marry her, ſo as to make her his Wife, he muſt of neceſſity have lain both with Mother and Daughter. But this place is alſo to be underſtood of the Mother of that Wife by ſome other Husband, therefore <hi>Moſes</hi> calls the Daughter his <hi>Wife,</hi> that is, his <hi>lawful</hi> Wife, and the fault was not in lying with the Daughter, but the Mother, after he had been joyned in Marriage to the Daughter. And this Prohibition is as it were the reverſe and counterpart of that other which hath been mention'd out of <hi>Levit.</hi> 18. 7. and <hi>c.</hi> 20. 12. For in the two former places it is forbidden, for a Man to Marry the Mother and lie with the Daughter, and in the latter it is for<g ref="char:EOLhyphen"/>bidden, for a Man to Marry the Daughter
+<pb n="8" facs="tcp:41256:7"/> and commit Inceſt with the Mother. And by theſe two places compared together, it is ſtill further evident, that the Law of <hi>Moſes</hi> is in theſe caſes to be explained and interpreted by parity of reaſon, for this was the reaſon of prohibiting, firſt the enjoyment of the Mother and the Daugh<g ref="char:EOLhyphen"/>ter in the deſcending line, and then of the Daughter and Mother in the aſ<g ref="char:EOLhyphen"/>cending, becauſe the Relation is exactly the ſame in both Caſes, and by conſe<g ref="char:EOLhyphen"/>quence it is in both Caſes equally un<g ref="char:EOLhyphen"/>lawful, which is to argue by parity of reaſon, which if it be admitted as a mea<g ref="char:EOLhyphen"/>ſure of procedure in one Caſe, the equity and juſtice of proceeding after the ſame manner is the ſame in all.</p>
+            <p>But on the contrary, if we are no where to extend the intention and obliga<g ref="char:EOLhyphen"/>tion of the law of <hi>Moſes</hi> beyond the letter of it, then it will be <hi>Levitically</hi> lawful for a Man to Marry his own Daughter, becauſe this is no where expreſly forbid<g ref="char:EOLhyphen"/>den, but conſequentially it is, for if it be unlawful for a Man to lie with his Daughter in Law, that is, his Wives Daughter, it is much more unlawful for him to do it with his own. If it be forbidden, as it is, <hi>Lev.</hi> 18. 10. for a Man <hi>to uncover the nakedneſs of his Sons Daugh<g ref="char:EOLhyphen"/>ter,
+<pb n="9" facs="tcp:41256:7"/> or his Daughter's Daughter,</hi> that is, of his Grand-child, it is ſuppoſed much more that it is by that very Prohibition intentionally forbidden, for him to unco<g ref="char:EOLhyphen"/>ver the nakedneſs of his own. So likewiſe it is forbidden for a Man to Marry his half-Siſter either by Fathers or Mothers ſide, <hi>Lev. 18. 9. The nakedneſs of thy Siſter, the Daughter of thy Father, or Daughter of thy Mother, whether ſhe be born at home or born abroad, even their nakedneſs thou ſhalt not uncover.</hi> But yet it is no where in expreſs terms forbidden for a Man to Marry his own Siſter, born of the ſame Father and Mother, which yet notwith<g ref="char:EOLhyphen"/>ſtanding hath been looked upon by Jews and Chriſtians, as well the one as the other, and both of them univerſally, without any one exception, to be <hi>Levi<g ref="char:EOLhyphen"/>tically</hi> prohibited and unlawful, becauſe the ſame reaſon, whatſoever it is, which forbids the Marriage of the half-Siſter, is much more ſtrong and powerful againſt an inceſtuous conjunction with the whole; ſo that it appears plainly not only that it is neceſſary in it ſelf, that the argument <hi>à pari,</hi> or <hi>à potiori,</hi> ſhould be admitted in theſe Caſes, but that in ſome of them it is univerſally done, and there is the ſame reaſon why it ſhould be ſo in all.</p>
+            <pb n="10" facs="tcp:41256:8"/>
+            <p>Which may render my Fifth and Laſt conſideration in a manner uſeleſs, which is, that God being ſo highly diſpleaſed with the <hi>Amorites</hi> and other Nations, as utter<g ref="char:EOLhyphen"/>ly to extirpate them from off the face of the Earth, and give their Land for an Inheritance to <hi>Iſrael</hi> his People, and be<g ref="char:EOLhyphen"/>ing ſo diſpleaſed at the Abominations themſelves, for which theſe Nations were extirpated and rooted out, that the ſanction of ſeveral of the <hi>Levitical</hi> Prohibitions was certain and unavoidable death, in the moſt publick manner, in the face and open view of the whole Congregation; this ought to teach us not only to admit a parity or potiority of reaſon, when they lie ſo natu<g ref="char:EOLhyphen"/>rally and ſo fairly in our way, that we can<g ref="char:EOLhyphen"/>not without bluſhing pretend to ſhun or avoid them, but rather then reſtrain our obligation to the Divine Law, within too narrow bounds, to exceed on the other hand by a pious miſtake, inſtead of fal<g ref="char:EOLhyphen"/>ling ſhort out of a ſpirit of preſumption, which is an offence to God, when it hath not modeſtly, dutifully and impartially conſidered things, though it ſhould hap<g ref="char:EOLhyphen"/>pen to determine rightly as to the matter or the inſtances of obedience. And this is my firſt anſwer to the Queſtion propoſed, concerning the Marriage of an Uncle
+<pb n="11" facs="tcp:41256:8"/> with his Niece, which is drawn from the parity or ſimilitude of the Caſe to the Marriage of an Aunt with her Ne<g ref="char:EOLhyphen"/>phew.</p>
+            <p>But Secondly, It is, I preſume, agreed on all hands, that it is unlawful for a Ne<g ref="char:EOLhyphen"/>phew to intermarry with his Fathers or Mothers own Siſter, the <hi>Amita</hi> or <hi>Ma<g ref="char:EOLhyphen"/>tertera,</hi> the Conſanguineous Aunt by the Fathers or Mothers ſide, and it is, I think, as univerſally determined, that it is un<g ref="char:EOLhyphen"/>lawful for an Uncle to Intermarry with his Niece, the Daughter of his own Bro<g ref="char:EOLhyphen"/>ther or Siſter; and this was certainly the Old <hi>Roman</hi> Law till <hi>Claudius</hi> procured it to be abrogated by the Senate, to excuſe and juſtifie an inceſtuous Paſſion for his beloved <hi>Agrippina,</hi> but yet this was looked upon by all to be ſo foul and abominable a thing, that the example was not follow<g ref="char:EOLhyphen"/>ed in that age by any more then one, as <hi>Tacitus</hi> informs us, or two at the moſt, as <hi>Suetonius</hi> would have it, and they alſo did it rather out of Complaiſance and Flattery to <hi>Agrippina,</hi> at whoſe inſtance it was done, then out of any natural inclination in the Contracting parties; and for the ſame reaſon, becauſe of its Turpitude and Inceſtuous nature, it was repealed by <hi>Nerva,</hi> and though it were afterwards re<g ref="char:EOLhyphen"/>ſtored
+<pb n="12" facs="tcp:41256:9"/> by <hi>Adrian,</hi> and encouraged after that, by the example of <hi>L. Antoninus Caeſar,</hi> who Married his Niece <hi>Lucilla</hi> the Daugh<g ref="char:EOLhyphen"/>ter of his Brother <hi>M. Aurelius Antoninus</hi> the Philoſopher, yet it always remained inceſtuous, and prohibited by the Laws of the Empire, for a man to Marry his Siſter's Daughter, though he were allow<g ref="char:EOLhyphen"/>ed to Marry the Daughter of his Brother; the reaſon of which was, that though in Laws well conſtituted, for a bar to con<g ref="char:EOLhyphen"/>cupiſcence, and for the ſpreading of Friend<g ref="char:EOLhyphen"/>ſhips, a parity of Caſes ought to be allow<g ref="char:EOLhyphen"/>ed, yet the violation of a law in one Caſe, ought not by any means to be drawn into Precedent or Example to the violation of it in another, ſo that it being naturally or politically unlawful or inconvenient for a Man to Marry the Daughter of his Brother, it was ſtill more reaſonable to confine the Interpretation of the <hi>S. C. Claudianum,</hi> by which it was provided <hi>de futuro</hi> that ſuch Marriages ſhould be deemed lawful, to the letter of the law itſelf, ſo as the priviledge ſhould not be extended to the Niece deſcending from the Siſter.</p>
+            <p>Now it is to be noted that both by the <hi>Jewiſh</hi> and the <hi>Roman</hi> Law, Affinities and Conſanguinities were equally forbid<g ref="char:EOLhyphen"/>den
+<pb n="13" facs="tcp:41256:9"/> and to the ſame degrees; as for the <hi>Roman</hi> Law, it is ſo plain, ſo frequently inculcated, and ſo univerſally acknow<g ref="char:EOLhyphen"/>ledged by all the Ancient <hi>Civilians</hi> that it is to no purpoſe to go about to prove it; and that it was ſo in the <hi>Jewiſh,</hi> I prove by theſe following Texts, <hi>Lev. 18. v. 8. The nakedneſs of thy Fathers Wife ſhalt thou not uncover, it is thy Fathers naked<g ref="char:EOLhyphen"/>neſs;</hi> that is, it is ſame thing in the Interpretation of Law, as if a Man had uncovered the nakedneſs of his own Mo<g ref="char:EOLhyphen"/>ther, his Father and his Mother in Law being united, as it were, into the ſame perſon, in the ſame manner as his own Mother and his Father were. Again, <hi>v. 15. Thou ſhalt not uncover the naked<g ref="char:EOLhyphen"/>neſs of thy Daughter in Law, ſhe is thy Sons Wife;</hi> that is, ſhe is to be reputed as ſtanding in the ſame nearneſs of relation to you, with your Son himſelf, and by conſequence it is, in the eye of the Law, the ſame thing, as if you had uncovered the nakedneſs of your own Daughter, for a Son and a Daughter are the ſame as to nearneſs of blood, or diſtance from their common Parent. So alſo <hi>v. 16. Thou ſhalt not uncover the nakedneſs of thy Brothers Wife, it is thy Brothers naked<g ref="char:EOLhyphen"/>neſs;</hi> that is, it is the ſame thing as if
+<pb n="14" facs="tcp:41256:10"/> you had been guilty of uncleanneſs with your own Siſter, for a Brother and a Siſter are in relation the ſame. Laſtly, <hi>v.</hi> 14. which I mention laſt, becauſe I intend to make the moſt particular application of it, <hi>Thou ſhalt not uncover the nakedneſs of thy Fathers Brother, thou ſhalt not approach to his Wife, ſhe is thine Aunt;</hi> that is, by having been joyned in Marriage to your Fathers Brother, it is the ſame thing as if ſhe had been your Fathers own Siſter, ſo that the reaſon why a Man might not approach to his Aunt in Affinity or by Marriage, was, becauſe the Aunt in con<g ref="char:EOLhyphen"/>ſanguinity or by blood was forbidden, and becauſe of the legal analogy and reſem<g ref="char:EOLhyphen"/>blance of the one to the other; but now by the ſame reaſon that an Aunt by con<g ref="char:EOLhyphen"/>ſanguinity may not Marry her Nephew, an Uncle in the ſame nature may not Mar<g ref="char:EOLhyphen"/>ry his Niece, becauſe the diſtance in both Caſes is exactly the ſame, and if Affi<g ref="char:EOLhyphen"/>nities and Conſanguinities go hand in hand, as well by the <hi>Moſaick</hi> as the <hi>Roman</hi> Law, and if they are forbidden to the ſame de<g ref="char:EOLhyphen"/>grees, and by reaſon of their reſemblance and analogy to the alliances by blood, by reaſon of Man and Wife's being the ſame Fleſh, and legally united into the ſame perſon, then is a Man forbidden by the
+<pb n="15" facs="tcp:41256:10"/> 
+               <hi>Levitical</hi> Law to Marry his Niece by Affinity, which is the Caſe propoſed.</p>
+            <p>The Second Query is, Whether being but of the half-blood do not make kin<g ref="char:EOLhyphen"/>dred? To which my Anſwer is affirmative that it does, becauſe though the legal Nearneſs of a Siſter-in-Law, and a Siſter by both Parents be the ſame, ſo far as the Matrimonial Prohibition is concerned, yet the natural Nearneſs is greater in an half Siſter, then in a Siſter by Affinity, and therefore it ſeems reaſonable if the one be forbidden, that is to ſay, the Siſter by Affinity, the Siſter <hi>German,</hi> or <hi>
+                  <g ref="char:V">Ʋ</g>terine,</hi> by Father or Mothers ſide, is much more; and to this it is to be added, that all along before the giving of the Law, the half Siſter, deſcended of the ſame Mother, was always accounted as ſacred, and as indiſ<g ref="char:EOLhyphen"/>penſably prohibited in Marriage as the whole Siſter her ſelf, that is, ſhe was in the interpretation of Law looked upon as an whole Siſter, as <hi>Abraham</hi> ſaid con<g ref="char:EOLhyphen"/>cerning <hi>Sarah</hi> his Wife, in his Apology to <hi>Abimelech</hi> the King of <hi>Gerar, She is the Daughter of my Father, but not the Daughter of my Mother,</hi> implying there<g ref="char:EOLhyphen"/>by, as I conceive, that if ſhe had been his Siſter by the Mothers ſide, it had not been Lawful for him according to the
+<pb n="16" facs="tcp:41256:11"/> opinion and uſage of thoſe times to take her to Wife; but without any elaborate canvaſſing the buſineſs, this query is ſuf<g ref="char:EOLhyphen"/>ficiently anſwered by comparing theſe two places together, <hi>Levit</hi> 18. 6. it is ſaid, <hi>None of you ſhall approach to any that is near of Kin to him, to uncover their na<g ref="char:EOLhyphen"/>kedneſs,</hi> and <hi>v. 9. The nakedneſs of thy Siſter, the Daughter of thy Father, or the Daughter of thy Mother, whether ſhe be born at home, or born abroad, even their naked<g ref="char:EOLhyphen"/>neſs thou ſhalt not uncover.</hi> From whence it is manifeſt, from comparing the latter place with the former, that the <hi>half-Siſter</hi> is <hi>near of Kin,</hi> and conſequently that the <hi>half-blood</hi> makes <hi>Kindred,</hi> therefore a Mans Wife's half-Siſter is to be looked upon as his Wife's Siſter; and becauſe Af<g ref="char:EOLhyphen"/>finities and Conſanguinities in the Practice and Interpretation of Law are the ſame, therefore his Wife's Siſter is to be looked upon as his Siſter, and her Daugh<g ref="char:EOLhyphen"/>ter is the ſame thing as his Niece, the Daughter of his own Siſter, to whom he is in the language of the Civil Law, <hi>pa<g ref="char:EOLhyphen"/>rentis loco,</hi> and therefore ought not to Marry her, and if a Mans Grand-child be forbidden him in Marriage by the <hi>Le<g ref="char:EOLhyphen"/>vitical</hi> Law it ſelf, upon this reaſon which muſt be acknowledged to be im<g ref="char:EOLhyphen"/>plyed
+<pb n="17" facs="tcp:41256:11"/> in the Prohibition, becauſe he can<g ref="char:EOLhyphen"/>not Marry his Daughter, then it ſeems reaſonable in this Caſe alſo, that if a Man cannot Marry the Mother, his Wife's half-Siſter, he cannot Marry the Daughter neither, who is immediately deſcended from her, and it is certain in the Civil Law, that in the collateral as well as the direct line the <hi>aſcendentes</hi> and <hi>deſcenden<g ref="char:EOLhyphen"/>tes</hi> are prohibited <hi>in infinitum.</hi>
+            </p>
+            <p>It remains now only, that I conſider the Third Query, which is this, <hi>Whether the Marriage propoſed being made, it be better for them to part, or no?</hi>
+            </p>
+            <p>To which I Anſwer Firſt, That in ſome Caſes it is neceſſary according to the Chriſtian Doctrine, which is very tender of Divorces, and with a great deal of rea<g ref="char:EOLhyphen"/>ſon, that a Divorce be made, or a worſe puniſhment inflicted, as is manifeſt from the Caſe of the <hi>inceſtuous Corinthian,</hi> who had Marryed his Fathers Wife.</p>
+            <p>Secondly, In all ordinary Caſes our Saviour's rule holds good, and ſhews withall how extreamly tender the Goſpel is of divorces, <hi>Matth.</hi> 5. 32. <hi>Whoſoever putteth away his Wife, ſaving only for the cauſe of Fornication, cauſeth her to commit Adultery: and whoſoever ſhall marry her that is divorced, committeth Adultery.</hi>
+               <pb n="18" facs="tcp:41256:12"/> From whence it follows, that if it be a doubtful Caſe, whether the Marriage now under conſideration be <hi>ex poſt Facto,</hi> lawful or no, though it be granted to be unlawful <hi>ex Antecedenti</hi> that the doubt ought to be reſolved in favour of the Marriage, and in confirmation of it.</p>
+            <p>Thirdly, If the Parties concerned in the above written Queries, have not yet conſummated their Marriage by the <hi>copula carnalis,</hi> I am humbly of opinion that they ought to ſeparate for the pre<g ref="char:EOLhyphen"/>vention of ſcandal to themſelves, and of example to others.</p>
+            <p>Fourthly, That it being but a ſingle inſtance, in which many Families are not concerned, this may ſeem to incline to a divorce, becauſe the publick can receive no prejudice by the ſeparation, though by the evil precedent and example it may.</p>
+            <p>But yet Fifthly, If there be any ſuch thing to be admitted as a <hi>caſus favora<g ref="char:EOLhyphen"/>bilis,</hi> I am of opinion this is it, becauſe it is placed <hi>in confinio liciti,</hi> it being at the fartheſt diſtance in which it is practically poſſible for a Man to Marry from himſelf, in his own deſcending collateral Affinity, though the Civil Laws to make the mat<g ref="char:EOLhyphen"/>ter more ſure, have forbidden ſuch Mar<g ref="char:EOLhyphen"/>riages <hi>in infinitum.</hi>
+            </p>
+            <pb n="19" facs="tcp:41256:12"/>
+            <p>Sixthly, That if the Marriage be con<g ref="char:EOLhyphen"/>ſummated as aforeſaid, it is ſtill more fa<g ref="char:EOLhyphen"/>vourable in the behalf of the Parties, eſpecially if any Iſſue have been brought forth or conceived, and in both theſe Caſes, eſpecially the latter, the ſcandal and inconvenience is greater if they part then if they continue together.</p>
+            <p>Seventhly, If any Iſſue ſhould follow upon this Marriage, it is certain that the Act of Parliament hath not in expreſs words declared ſuch Iſſue to be Spurious or Illegitimate, and it ſeems ſome<g ref="char:EOLhyphen"/>what ſtrange for two perſons to ſeparate upon account of an unlawful Marriage, who having conſummated the ſaid Mar<g ref="char:EOLhyphen"/>riage by mutual enjoyment, either have at preſent, or may have hereafter lawful Iſſue deſcended from them.</p>
+            <p>Eightly, Albeit Affinity and Conſan<g ref="char:EOLhyphen"/>guinity be in the Interpretation of the Law the ſame, and the half and whole Siſter equally Prohibited, yet in truth and reality the <hi>affinis</hi> is not ſo near of Kin as the <hi>conſanguineus,</hi> nor the half Siſter as the whole.</p>
+            <p>Ninthly, That there hath been and ought to be favour ſhewn in Matrimoni<g ref="char:EOLhyphen"/>al Caſes, notwithſtanding that the letter of the Law hath been ſometimes violated
+<pb n="20" facs="tcp:41256:13"/> and affronted by them, I will inſtance in the buſineſs of <hi>Poligamy,</hi> which was for<g ref="char:EOLhyphen"/>bidden by the Law of <hi>Moſes</hi> in theſe words, <hi>Lev.</hi> 18. 18. <hi>Neither ſhalt thou take a Wife to her Siſter to vex her, to uncover her nakedneſs, beſides the other in her life time,</hi> for this cannot be underſtood of a Siſter properly ſo called, for it was certainly Prohibited by the <hi>Levitical</hi> Law, for a Man to Marry two Siſters, either both together, or one after the other; for by the ſame reaſon that it was unlawful for a Man to Marry his Brothers Wife after the deceaſe of his Brother, unleſs when he dyed Childleſs, to redeem the Inheri<g ref="char:EOLhyphen"/>tance, by the very ſame reaſon it muſt be unlawful for the Siſter to Marry the Siſters Husband after her deceaſe, becauſe the Relation is exactly the ſame in both Caſes. But the meaning was, that though the <hi>Jews</hi> were allowed to keep Concu<g ref="char:EOLhyphen"/>bines as <hi>Abraham</hi> did, and from thence the Concubinage among the <hi>Romans</hi> was de<g ref="char:EOLhyphen"/>rived, yet it was unlawful to Marry more Wives that ſhould be <hi>aequo jure,</hi> with one another, that ſhould have an equal power in the Family, and ſhould all of them be the Mothers of Heritable Iſſue, becauſe this would be the occaſion of ſtrife and contention betwixt them, and render
+<pb n="21" facs="tcp:41256:13"/> the Family troubleſome and uneaſie, but yet we know that notwithſtanding this, ſuch Marriages were practiſed under the Law, and yet no Divorce enſued. <hi>David</hi> was one example of it, and <hi>Elkanah</hi> the Father of <hi>Samuel</hi> another; the one a Man after Gods own Heart, to whoſe charge nothing is laid but the matter of <hi>
+                  <g ref="char:V">Ʋ</g>riah,</hi> and the other a juſt Man, and of a clear reputation. And God foreſeeing in his wiſdom, how difficult it would be to wean the <hi>Jews</hi> of this liberty of taking more Wives then in ſtrictneſs of Law it was permitted them to do, did therefore make an expreſs proviſion as to the In<g ref="char:EOLhyphen"/>heritance, in the Caſe of <hi>Polygamy, Deut. 21. v.</hi> 15, 16, 17. by which it was en<g ref="char:EOLhyphen"/>acted, that the double portion was al<g ref="char:EOLhyphen"/>ways to fall to the ſhare of the Eldeſt Son, upon which ſoever of the Wives he was begotten, and when the Goſpel enjoyns that a <hi>Biſhop</hi> and a <hi>Deacon</hi> ſhould be the <hi>Husband of one Wife,</hi> it is not to be un<g ref="char:EOLhyphen"/>derſtood as the <hi>Canon Law</hi> interprets it of <hi>Bigamy,</hi> that is, of Marrying a ſe<g ref="char:EOLhyphen"/>cond Wife after the death of the firſt, for here there is no Queſtion but the rule holds good, <hi>it is better to Marry then to burn,</hi> as well after the Death of the firſt Wife as before it; but the thing was that
+<pb n="22" facs="tcp:41256:14"/> whereas ſeveral Converts to Chriſtianity were at the ſame time Marryed to more Wives then one, though it was not thought convenient to divorce any that had been actually Married before their converſion, yet it was deſigned to in<g ref="char:EOLhyphen"/>troduce <hi>Monogamy</hi> or the Marriage of one Wife only at one time, for the future, and therefore for examples ſake none were admitted to Offices in the Church, who had at the ſame time been Husbands to more Wives then one, and I do really believe this Caſe of being Married to the deceaſed Wife's half-Siſters Daughter to be after enjoyment a more favourable Caſe and leſs liable to Divorce then that of <hi>Polygamy</hi> naturally ſeems to be, by reaſon of the great ſtrifes and jealouſies that uſually attend it. So that upon the whole matter my opinion is, that the parties concerned in the Caſes that have been mentioned, upon ſuppo<g ref="char:EOLhyphen"/>ſition that the Marriage have received its final Conſummation in the Bed, ought by no means to be ſeparated and divor<g ref="char:EOLhyphen"/>ced from one another, and that ſuch ſepa<g ref="char:EOLhyphen"/>ration cannot be admitted without great ſcandal and reproach to them both, and without diſhonor and deſpite to the Chriſtian Religion, which is ſo very
+<pb n="23" facs="tcp:41256:14" rendition="simple:additions"/> favourable and tender, <hi>ex poſt facto,</hi> in matters of this nature, and I deſire them both to reflect very ſeriouſly upon our Saviours general Rule, that except it be in very extraodinary Caſes, ſuch as that of the <hi>Inceſtuous Corinthian,</hi> or of <hi>Herods</hi> Marrying his Brother <hi>Philips</hi> Wife, no<g ref="char:EOLhyphen"/>thing but Fornication can juſtifie a Di<g ref="char:EOLhyphen"/>vorce, or ſecure the Parties ſeparating from each other, from the crime or dan<g ref="char:EOLhyphen"/>ger of Adultery.</p>
+            <closer>
+               <dateline>
+                  <date>Jan. 31. 1683/4.</date>
+               </dateline>
+               <signed>John Turner.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>PAge 5. Line 25. for Blood read Kin. p. 11. l. 26. for natural r. mutual.</p>
+         </div>
+         <div type="postscript">
+            <pb n="24" facs="tcp:41256:15"/>
+            <head>POST-SCRIPT.</head>
+            <p>FOR the Second Query, the reſo<g ref="char:EOLhyphen"/>lution of it ſeems to lie ſo plain that I do almoſt wonder to find it pro<g ref="char:EOLhyphen"/>poſed, for in the Caſe of an whole Siſter, that is, a Siſter by Father and Mothers ſide, it is certain that both Parents do equally contribute to the Conſanguinity, and therefore in the half-Siſter, there muſt be an half Conſanguinity, that is, an half Kindred, a Kindred as real as the whole, though not ſo perfect, and by the ſame reaſon that the Conſanguinity of the Wife to the half-Siſter, is leſs perfect, the Affinity of the Husband to the ſaid half-Siſter and the Niece deſcending from her is proportionally imperfect alſo, upon which accounts it is, as I have ſaid, <hi>ex poſt facto,</hi> a favourable Caſe, eſpecially if both, or either of the Parties were ignorant when they Married, of its antecedent unlaw<g ref="char:EOLhyphen"/>fulneſs, and both by reaſon of the diſtance of the Relation and the defect of it, the Marriage after fruition ought not to be diſſolved.</p>
+            <closer>
+               <signed>J. T.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:41256:15"/>
+            <head>
+               <hi>Books Written by the ſame Author, and Printed for</hi> Walter Kettilby.</head>
+            <p>ANimadverſions upon the Doctrine of Tranſubſtantiation. A Sermon Preached before the Right Honourable the Lord Mayor and Court of Aldermen. <hi>Octob.</hi> 19. 1679.</p>
+            <p>Two Diſcourſes Introductory to a diſ<g ref="char:EOLhyphen"/>quiſition, demonſtrating the Unlawful<g ref="char:EOLhyphen"/>neſs of the Marriage of Couſin Germans, from Law, Reaſon, Scripture, and An<g ref="char:EOLhyphen"/>tiquity,</p>
+            <p>A Letter of Reſolution to a Friend, concerning the Marriage of Couſin Germans.</p>
+            <p>A Sermon Preached before Sir <hi>Patience Ward,</hi> upon the laſt Sunday of his Mayoralty, with Additions.</p>
+            <p>An exercitation concerning the true time of our Saviour's Paſſover or Laſt Sup<g ref="char:EOLhyphen"/>per with his Diſciples, being part of a Digreſſion in the Additions to the Sermon before Sir <hi>P. W.</hi>
+            </p>
+            <p>A Diſcourſe of the Divine Omnipre<g ref="char:EOLhyphen"/>ſence and its conſequences; A Sermon
+<pb facs="tcp:41256:16" rendition="simple:additions"/> before the Honourable Society of <hi>Lin<g ref="char:EOLhyphen"/>colns-Inn,</hi> upon the Firſt Sunday of laſt <hi>Michaelmaſs</hi> Term. All Printed for <hi>Walter Kettilby,</hi> at the <hi>Biſhops'-Head</hi> in S. <hi>Paul's</hi> Church-Yard.</p>
+            <p>The Middle-way betwixt Neceſſity and Freedom, in Two Parts. Printed for <hi>Sa<g ref="char:EOLhyphen"/>muel Simpſon,</hi> Bookſeller in <hi>Cambridg,</hi> and to be Sold by Bookſellers in <hi>London.</hi>
+            </p>
+         </div>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>THere are now juſt coming out Two exercitations being the remainder of the Digreſſions in the Additions to the Sermon before Sir <hi>P. W.</hi> The Firſt at<g ref="char:EOLhyphen"/>tempting to demonſtrate that the Jews till after the return from the Captivity of <hi>Babylon</hi> were never publickly and pro<g ref="char:EOLhyphen"/>miſcuouſly allowed the reading of the Law of <hi>Moſes</hi> or other Canonical Books of the Old Teſtament.</p>
+            <p>The Second concerning the true Reading and Pronunciation of the <hi>Te<g ref="char:EOLhyphen"/>tragrammaton,</hi> or four Lettered name of God in <hi>Hebrew,</hi> as alſo concerning the Pythagorick Tetractys and other Phi<g ref="char:EOLhyphen"/>lological matters, that have a connexion with it.</p>
+            <pb facs="tcp:41256:16"/>
+         </div>
+      </back>
+   </text>
+</TEI>
